@@ -5,6 +5,6 @@ More instructions will be released soon...
 
 Training command:
 
-'''
+```
 ./tools/dist_train.sh configs/grounding_dino/grounding_dino_swin-t_finetune_8xb2_20e_fruit_total.py 3 --work-dir ./work_dirs/total_work_dirs_10e
-'''
+```
